@@ -18,4 +18,4 @@ leadView.lb_customView = hintLabel;
    }
 }];
 ```
-![]()
+![](https://github.com/A1129434577/LBUserLeadView/blob/master/LBUserLeadView.gif?raw=true)
